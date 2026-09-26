@@ -111,27 +111,6 @@ A compact embedded system designed to detect abnormal RF conditions and classify
 
 > Research-oriented project combining embedded systems, RF signal analysis and AI at the edge.
 
----
-
-## AI Cinematic Tracking Robot Arm
-
-**Robotics · Computer Vision · CAD · Embedded Control · AI**
-
-A robotics project exploring the intersection of **cinematography and intelligent robotic systems**.
-
-The goal is to develop a robotic camera platform capable of tracking subjects and generating controlled cinematic camera motion.
-
-**Planned technologies:**
-- Mechanical design & CAD
-- Computer vision
-- Object / subject tracking
-- ROS2
-- Embedded motor control
-- Trajectory planning
-- PID control
-- AI-assisted camera motion
-
-> A personal flagship project combining my engineering interests with my passion for cinema.
 
 ---
 
